@@ -1,7 +1,7 @@
 [submodule "qtbase"]
 	path = qtbase
 	url = ../qtbase.git
-	branch = v5.12.3-2
+	branch = 5.12.3
 	status = essential
 [submodule "qtsvg"]
 	depends = qtbase
@@ -214,7 +214,7 @@
 	recommends = qtquickcontrols qtquickcontrols2 qtlocation qtwebchannel qttools
 	path = qtwebengine
 	url = ../qtwebengine.git
-	branch = v5.12.3-2
+	branch = 5.12.3
 	status = addon
 	priority = 10
 [submodule "qtcanvas3d"]

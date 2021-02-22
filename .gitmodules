@@ -136,7 +136,7 @@
 	depends = qtbase
 	recommends = qtdeclarative qtimageformats qtgamepad
 	path = qt3d
-	url = https://github.com/qt/qt3d.git
+	url = ../qt3d.git
 	branch = 5.15.2
 	status = addon
 [submodule "qtimageformats"]

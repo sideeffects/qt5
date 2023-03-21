@@ -13,7 +13,7 @@
 	depends = qtbase
 	recommends = qtsvg
 	path = qtdeclarative
-	url = https://github.com/qt/qtdeclarative.git
+	url = ../qtdeclarative.git
 	branch = 5.15.2
 	status = essential
 [submodule "qtactiveqt"]

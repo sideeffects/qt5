@@ -82,7 +82,7 @@
 	depends = qtbase
 	recommends = qtdeclarative qtquickcontrols qtquickcontrols2 qtserialport
 	path = qtlocation
-	url = https://github.com/qt/qtlocation.git
+	url = ../qtlocation.git
 	branch = 5.15.2
 	status = addon
 [submodule "qtsensors"]

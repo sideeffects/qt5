@@ -1,6 +1,6 @@
 [submodule "qtbase"]
 	path = qtbase
-	url = https://github.com/qt/qtbase.git
+	url = ../qtbase.git
 	branch = 6.5.3
 	status = essential
 [submodule "qtsvg"]
@@ -170,7 +170,7 @@
 	depends = qtdeclarative
 	recommends = qtwebchannel qttools qtpositioning
 	path = qtwebengine
-	url = https://github.com/qt/qtwebengine.git
+	url = ../qtwebengine.git
 	branch = 6.5.3
 	status = addon
 	priority = 10
